@@ -14,7 +14,6 @@ body {
 
 .list-container {
   position: relative;
-  margin-top:100px;
 }
 .list-container.active .more-button-list {
   opacity: 1;
